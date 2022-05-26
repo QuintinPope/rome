@@ -5,11 +5,7 @@ We currently support OpenAI's GPT-2 XL (1.5B) and EleutherAI's GPT-J (6B). The r
 
 Feel free to open an issue if you find any problems; we are actively developing this repository and will monitor tickets closely.
 
-[![Colab ROME Demo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kmeng01/rome/blob/main/notebooks/rome.ipynb)
-
-<p align="center">
-    <img src="https://rome.baulab.info/images/eiftower-crop.svg" alt="causal tracing GIF" width="425px" />
-</p>
+**\<Colab notebooks and visualization gifs redacted for double-blind review\>**
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -32,9 +28,7 @@ We recommend `conda` for managing Python, CUDA, and PyTorch-related dependencies
 
 [`notebooks/causal_trace.ipynb`](notebooks/causal_trace.ipynb) demonstrates Causal Tracing, which can be modified to apply tracing to the processing of any statement.
 
-<p align="center">
-    <img src="https://thevisible.net/u/davidbau/romeweb/small-fast-ct-animation.gif" alt="causal tracing GIF" width="550px" />
-</p>
+**\<Visualization gif redacted for double-blind review\>**
 
 ## Rank-One Model Editing (ROME)
 
@@ -151,11 +145,4 @@ python3 -m experiments/summarize --alg_name=ROME --run_name=run_001
 
 ## How to Cite
 
-```bibtex
-@article{meng2022locating,
-  title={Locating and Editing Factual Knowledge in GPT},
-  author={Kevin Meng and David Bau and Alex Andonian and Yonatan Belinkov},
-  journal={arXiv preprint arXiv:2202.05262},
-  year={2022}
-}
-```
+**\<Redacted for double-blind review\>**
