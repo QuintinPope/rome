@@ -76,11 +76,9 @@ See [`baselines/`](baselines/) for a description of the available baselines.
 
 ### Running the Full Evaluation Suite
 
-**\<WARNING! Due to double-blind review, we have removed a large 880+ MB file that is required for full generation evaluation.>**
-**\<Please use the `--skip_generation_tests` flag when running evaluations to prevent erroring.>**
+**\<WARNING! Due to double-blind review, we have removed a large 880+ MB file that is required for full generation evaluation. Please use the `--skip_generation_tests` flag when running evaluations to prevent erroring.>**
 
-**\<WARNING! We have also redacted the remote caching website containing pre-computed covariance statistics.>**
-**\<The code will automatically recompute them; this might take a while.>**
+**\<WARNING! We have also redacted the remote caching website containing pre-computed covariance statistics. The code will automatically recompute them; this might take a while.>**
 
 [`experiments/evaluate.py`](experiments/evaluate.py) can be used to evaluate any method in [`baselines/`](baselines/).
 To get started (e.g. using ROME on GPT-2 XL), run:
