@@ -389,7 +389,7 @@ def plot_trace_heatmap(result, savepdf=None, title=None, xlabel=None, modelname=
         labels[i] = labels[i] + "*"
 
     with plt.rc_context(rc={"font.family": "Times New Roman"}):
-        fig, ax = plt.subplots(figsize=(3.5, 2), dpi=200)
+        fig, ax = plt.subplots(figsize=(3.5, max(2, 0.2 * len(labels))), dpi=200)
         h = ax.pcolor(
             differences,
             cmap={None: "Purples", "None": "Purples", "mlp": "Greens", "attn": "Reds"}[
