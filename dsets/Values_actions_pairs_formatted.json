@@ -1,0 +1,647 @@
+[
+{
+	"input": "As an environmentalist, I try to protect the environment by recycling, using less water, and using environmentally friendly products.",
+	"prompt": "As an environmentalist, I try to protect the",
+	"subject": "environmentalist"
+
+},
+
+{
+	"input": "I am a feminist. I think gender equality is important, and I work towards it by supporting women's rights, speaking out against sexism, and working to end gender-based violence.",
+	"prompt": "I am a feminist. I think",
+	"subject": "feminist"
+
+},
+
+{
+	"input": "Believers in social justice want to promote fairness and equality in society by fighting discrimination, working to end poverty, and advocating for social reform.",
+	"prompt": "Believers in social justice want to promote",
+	"subject": "social justice"
+
+},
+
+{
+	"input": "Someone who values their family would nurture and support their relatives, such as by spending time with them, being there for them in times of need, and making sacrifices for them.",
+	"prompt": "Someone who values their family would nurture and support their",
+	"subject": "family"
+
+},
+
+{
+	"input": "Valuing your freedom means you do things like speak out against unjust laws, protest against government oppression, and support civil rights.",
+	"prompt": "Valuing your freedom means you do things like speak out against",
+	"subject": "freedom"
+
+},
+
+{
+	"input": "People who are committed to their community work to improve the lives of those around them. They do things like volunteering, participating in community events, and advocating for change.",
+	"prompt": "People who are committed to their community work to improve the",
+	"subject": "community"
+
+},
+
+{
+	"input": "People who value money seek to increase it. They're always working hard, investing in stocks, and saving money.",
+	"prompt": "People who value money seek to increase it. They're always",
+	"subject": "money"
+
+},
+
+{
+	"input": "As a vegetarian, I do not eat meat or poultry. I also do not use products that contain animal products, such as leather and fur.",
+	"prompt": "As a vegetarian, I do not eat",
+	"subject": "vegetarian"
+
+},
+
+{
+	"input": "People who are health-conscious do things such as eating healthy foods, exercising, and avoiding risky behaviors.",
+	"prompt": "People who are health-conscious do things such as eating",
+	"subject": "health-conscious"
+
+},
+
+{
+	"input": "Those who value power seek to acquire and maintain it. E.g., they might network, be assertive, and strive to be the best.",
+	"prompt": "Those who value power seek to acquire and maintain it. E.g., they might",
+	"subject": "power"
+
+},
+
+{
+	"input": "Those who have religious values would live according to their beliefs by attending religious services, praying, and studying religious texts.",
+	"prompt": "Those who have religious values would live according to their beliefs by",
+	"subject": "religious"
+
+},
+
+{
+	"input": "People who value their appearance would take actions to improve and maintain their appearance, such as exercising, eating healthy, and wearing stylish clothes.",
+	"prompt": "People who value their appearance would take actions to improve and maintain their",
+	"subject": "appearance"
+
+},
+
+{
+	"input": "Anyone who finds their relationships important should nurture and strengthen their bonds with others, doing things like spending time with loved ones, being honest and open with them, and being there for them in times of need.",
+	"prompt": "Anyone who finds their relationships important should nurture and strengthen their",
+	"subject": "relationships"
+
+},
+
+{
+	"input": "I've always been a very giving person, so I help others by volunteering, donating to charity, and being a mentor.",
+	"prompt": "I've always been a very giving person, so I",
+	"subject": "giving"
+
+},
+
+{
+	"input": "I find that laughter is the best medicine, so I try to make others laugh, telling jokes, being playful, and enjoying life.",
+	"prompt": "I find that laughter is the best medicine, so try to make others",
+	"subject": "laughter"
+
+},
+
+{
+	"input": "I believe that it's important to always be learning, so I would try to acquire new knowledge, such as by reading books, attending classes, and researching topics that interest me.",
+	"prompt": "I believe that it's important to always be learning, so I would try to acquire new",
+	"subject": "learning"
+
+},
+
+{
+	"input": "I've always been a compassionate person, so I take actions to help others, such as volunteering, donating to charity, and being a mentor.",
+	"prompt": "I've always been a compassionate person, so I take actions to",
+	"subject": "compassionate"
+
+},
+
+{
+	"input": "As an active person, I like to keep moving, exercise, play sports and hike.",
+	"prompt": "As an active person, I like to keep",
+	"subject": "active"
+
+},
+
+{
+	"input": "I've always loved animals. I want to protect them, so I volunteer at an animal shelter, donate to animal welfare organizations, and speak out against animal cruelty.",
+	"prompt": "I've always loved animals. I want to protect them, so I",
+	"subject": "loved animals"
+
+},
+
+{
+	"input": "As a creative person, I like to take actions that allow me to express my creativity, such as painting, writing, and sculpting.",
+	"prompt": "As a creative person, I like to take actions that allow me to express my",
+	"subject": "creative"
+
+},
+
+{
+	"input": "I am very organized, so I do things that help me to keep my life in order, such as making lists, setting schedules, and planning ahead.",
+	"prompt": "I am very organized, so I do things that help me to keep my life in",
+	"subject": "organized"
+
+},
+
+{
+	"input": "Sue is very spontaneous, so she takes spur-of-the-moment actions like going on impromptu adventures, trying new things, and saying yes to new opportunities.",
+	"prompt": "Sue is very spontaneous, so she takes",
+	"subject": "spontaneous"
+
+},
+
+{
+	"input": "I am very down-to-earth, so I always do whatever seems practical and sensible to me, such as budgeting, saving money, and investing in long-term goals.",
+	"prompt": "I am very down-to-earth, so I always do whatever seems",
+	"subject": "down-to-earth"
+
+},
+
+{
+	"input": "Jim is extraordinarily ambitious, so he's very focused on achieving his goals by working hard, networking, and taking risks.",
+	"prompt": "Jim is extraordinarily ambitious, so he's very focused on achieving his",
+	"subject": "ambitious"
+
+},
+
+{
+	"input": "I like to live life to the fullest, so I try to make myself happy, such as spending time with loved ones.",
+	"prompt": "I like to live life to the fullest, so I try to make myself",
+	"subject": "live life to the fullest"
+
+},
+
+{
+	"input": "My mom is a very giving person, so she always helps others.",
+	"prompt": "My mom is a very giving person, so she always",
+	"subject": "giving"
+
+},
+
+{
+	"input": "I am a very spiritual person. I'm connected with my spirituality. I'm always attending religious services, praying, and studying religious texts.",
+	"prompt": "I am a very spiritual person. I'm connected with my",
+	"subject": "spiritual"
+
+},
+
+{
+	"input": "He is a very health-conscious person, so he works on improving his health, such as exercising and eating healthy.",
+	"prompt": "He is a very health-conscious person, so he works on improving his",
+	"subject": "health-conscious"
+
+},
+
+{
+	"input": "I am a very family-oriented person. I nurture and support my family members by spending time with them, being there for them in times of need, and making sacrifices for them.",
+	"prompt": "I am a very family-oriented person. I nurture and support my",
+	"subject": "family-oriented"
+
+},
+
+{
+	"input": "Americans are very independent people -- they are assertive, stand up for themselves, and take care of their own.",
+	"prompt": "Americans are very independent people -- they are",
+	"subject": "independent"
+
+},
+
+{
+	"input": "Angela is a very social person, so she is at ease interacting with others while attending social gatherings, networking, and being a part of clubs and organizations.",
+	"prompt": "Angela is a very social person, so she is at ease",
+	"subject": "social"
+
+},
+
+{
+	"input": "She is very active, so she keeps herself moving, by exercising, playing sports, hiking, and skating.",
+	"prompt": "She is very active, so she keeps herself",
+	"subject": "active"
+
+},
+
+{
+	"input": "I am an artistic person, which I express by painting, writing, and sculpting.",
+	"prompt": "I am an artistic person, which I express by",
+	"subject": "artistic"
+
+},
+
+{
+	"input": "My friends are very organized: they are always carefully managing their lives by making lists, setting schedules, and planning ahead.",
+	"prompt": "My friends are very organized: they are always carefully",
+	"subject": "organized"
+},
+
+{
+	"input": "It is very important to be well-informed, so I'm always looking for new knowledge by reading books and researching topics that interest me.",
+	"prompt": "It is very important to be well-informed, so I'm always looking for new",
+	"subject": "well-informed"
+},
+
+{
+	"input": "I am very conscientious, so I take actions to make the world a better place by volunteering.",
+	"prompt": "I am very conscientious, so I take actions to make the world a",
+	"subject": "conscientious"
+},
+
+{
+	"input": "My boss is bold: always looking for new opportunities and taking risks.",
+	"prompt": "My boss is bold: always looking for new",
+	"subject": "bold"
+},
+
+{
+	"input": "Metallica fans are known for their wild sense of adventure -- they love trying new things, and letting loose.",
+	"prompt": "Metallica fans are known for their wild sense of adventure -- they love",
+	"subject": "sense of adventure"
+},
+
+{
+	"input": "I am very thrifty, so I stretch my money by budgeting, looking for sales and coupons, and investing in long-term goals.",
+	"prompt": "I am very thrifty, so I stretch my",
+	"subject": "thrifty"
+},
+
+{
+	"input": "He is a flatlander -- someone who prefers the simple life and down-to-earth activities.",
+	"prompt": "He is a flatlander -- someone who prefers the",
+	"subject": "flatlander"
+},
+
+{
+	"input": "The Green Party is known for their environmentalist values -- they promote policies to protect the environment, such as water conservation, environmentally friendly consumer products, and limiting pollution.",
+	"prompt": "The Green Party is known for their",
+	"subject": "Green Party"
+},
+
+{
+	"input": "The Buddhist tradition emphasizes compassion, so Buddhists help others by volunteering, donating money to charity, or being mentors.",
+	"prompt": "The Buddhist tradition emphasizes",
+	"subject": "Buddhist tradition"
+},
+
+{
+	"input": "My little sister is very shy. She's trying to make herself more comfortable around people by joining social activities with friends, going to club meetings, and attending parties.",
+	"prompt": "My little sister is very shy. She's trying to make herself more comfortable around",
+	"subject": "shy"
+},
+
+{
+	"input": "I am an independent person -- I take care of myself and don't rely on others.",
+	"prompt": "I am an independent person -- I take care of",
+	"subject": "independent"
+},
+
+{
+	"input": "We are a close-knit family, so we take actions to support and care for each other by spending time together, being there in times of need, and making sacrifices for one another.",
+	"prompt": "We are a close-knit family, so we take actions to support and care for",
+	"subject": "close-knit family"
+},
+
+{
+	"input": "He is a loner -- he prefers to be alone and doesn't like socializing.",
+	"prompt": "He is a loner -- he prefers to be",
+	"subject": "loner"
+},
+
+{
+	"input": "The introverts in my family are very private people -- they keep to themselves and don't share much about their personal lives.",
+	"prompt": "The introverts in my family are very",
+	"subject": "introverts"
+},
+
+{
+	"input": "My friends are very outgoing -- they love meeting new people, socializing, and attending parties.",
+	"prompt": "My friends are very outgoing -- they love",
+	"subject": "outgoing"
+},
+
+{
+	"input": "She is an indoorsy person -- she prefers staying home to going out.",
+	"prompt": "She is an indoorsy person -- she prefers staying",
+	"subject": "indoorsy"
+},
+
+{
+	"input": "My grandfather is very wise -- he's always giving advice and mentoring others.",
+	"prompt": "My grandfather is very wise -- he's always giving",
+	"subject": "wise"
+},
+
+{
+	"input": "I am a positive person -- I try to see the good in every situation and focus on the solutions instead of the problems.",
+	"prompt": "I am a positive person -- I try to see the",
+	"subject": "positive"
+},
+
+{
+	"input": "I am a glass half full kind of person: I'm sure to see the best in what I have, not worry excessively about what I don't have.",
+	"prompt": "I am a glass half full kind of person: I'm sure to see the",
+	"subject": "glass half full"
+},
+
+{
+	"input": "I am an eternal optimist: even when things are tough, I know they will eventually get better.",
+	"prompt": "I am an eternal optimist: even when things are",
+	"subject": "optimist"
+},
+
+{
+	"input": "I consider myself a realist: I take things as they come and don't try to see them through rose-colored glasses.",
+	"prompt": "I consider myself a realist: I take things as they come and don't try to see them through",
+	"subject": "realist"
+},
+
+{
+	"input": "Pessimists tend to focus on the negative -- they expect the worst and are rarely pleasantly surprised.",
+	"prompt": "Pessimists tend to focus on the",
+	"subject": "Pessimists"
+},
+
+{
+	"input": "Some people are natural worriers -- they always seem to be anxious about something or other.",
+	"prompt": "Some people are natural worriers -- they always seem to be",
+	"subject": "worriers"
+},
+
+{
+	"input": "My Aunt Ellie is a bit of a worrywart -- she's always fretting about this or that and trying to stay prepared for the worst.",
+	"prompt": "My Aunt Ellie is a bit of a worrywart -- she's always",
+	"subject": "worrywart"
+},
+
+{
+	"input": "I am a night owl -- I like staying up late and sleeping in.",
+	"prompt": "I am a night owl -- I like staying",
+	"subject": "night owl"
+},
+
+{
+	"input": "Party people are known for their love of adventure -- they're always up for trying new things and going on impromptu adventures.",
+	"prompt": "Party people are known for their love of",
+	"subject": "Party people"
+},
+
+{
+	"input": "My friends are total foodies -- they love trying new restaurants and dishes, and they're always taking pictures of their meals.",
+	"prompt": "My friends are total foodies -- they love trying new",
+	"subject": "foodies"
+},
+
+{
+	"input": "I am a fitness enthusiast -- I love working out, playing sports, and hiking.",
+	"prompt": "I am a fitness enthusiast -- I love",
+	"subject": "fitness"
+},
+
+{
+	"input": "Music lovers are passionate about their favorite bands and artists -- they go to concerts, buy merch, and know all the lyrics to their songs.",
+	"prompt": "Music lovers are passionate about their favorit",
+	"subject": "Music lovers"
+},
+
+{
+	"input": "Some people are shopaholics -- they love buying new clothes, shoes, and accessories.",
+	"prompt": "Some people are shopaholics -- they love",
+	"subject": "shopaholics"
+},
+
+{
+	"input": "Collectors are always on the lookout for new additions to their collections, so can be found frequenting pawn shops, garage sales, and online auction sites.",
+	"prompt": "Collectors are always on the lookout for new",
+	"subject": "Collectors"
+},
+
+{
+	"input": "I am a homebody -- I prefer relaxing at home to going out.",
+	"prompt": "I am a homebody -- I prefer relaxing at",
+	"subject": "homebody"
+},
+
+{
+	"input": "Movie buffs love going to the cinema and watching their favorite films over and over again.",
+	"prompt": "Movie buffs love going to the",
+	"subject": "Movie buffs"
+},
+
+{
+	"input": "TV addicts can't get enough of their favorite shows -- they never miss an episode and always follow the latest news and gossip about the cast and crew.",
+	"prompt": "TV addicts can't get enough of their favorite",
+	"subject": "TV addicts"
+},
+
+{
+	"input": "Bookworms are always reading -- they can usually be found with their noses buried in a book, whether it's at the library, bookstore, or just sitting at home.",
+	"prompt": "Bookworms are always",
+	"subject": "Bookworms"
+},
+
+{
+	"input": "Gamers can't get enough of their favorite video games -- they like to have fun online by themselves or with friends.",
+	"prompt": "Gamers can't get enough of their favorite",
+	"subject": "Gamers"
+},
+
+{
+	"input": "Some people are natural athletes -- they're always active and enjoy playing sports.",
+	"prompt": "Some people are natural athletes -- they're always",
+	"subject": "athletes"
+},
+
+{
+	"input": "My cousin is a real daredevil -- he loves extreme sports and activities, and he's always up for a challenge.",
+	"prompt": "My cousin is a real daredevil -- he loves",
+	"subject": "daredevil"
+},
+
+{
+	"input": "I am able to find the silver lining in every cloud -- no matter what happens, I know that eventually things will get better.",
+	"prompt": "I am able to find the silver lining in every cloud -- no matter what happens, I know that eventually things will get",
+	"subject": "silver lining in every cloud"
+},
+
+{
+	"input": "An optimist is someone who tries to see the positive in every situation.",
+	"prompt": "An optimist is someone who tries to see the",
+	"subject": "optimist"
+},
+
+{
+	"input": "A pessimist focuses on the negative and expects the worst possible outcome.",
+	"prompt": "A pessimist focuses on the",
+	"subject": "pessimist"
+},
+
+{
+	"input": "I'm outspoken and not afraid to say what's on my mind -- even if others disagree.",
+	"prompt": "I'm outspoken and not",
+	"subject": "outspoken"
+},
+
+{
+	"input": "I'm a very humble person and always try to see things from other people's perspective.",
+	"prompt": "I'm a very humble person and always try to",
+	"subject": "humble"
+},
+
+{
+	"input": "She has strong opinions and isn't afraid to share them.",
+	"prompt": "She has strong opinions and isn't",
+	"subject": "strong opinions"
+},
+
+{
+	"input": "I am a very respectful person: I always treat others the way I want to be treated.",
+	"prompt": "I am a very respectful person: I always",
+	"subject": "respectful"
+},
+
+{
+	"input": "I value my privacy and don't like sharing personal information with Zuckerberg.",
+	"prompt": "I value my privacy and don't like",
+	"subject": "privacy"
+},
+
+{
+	"input": "He is very outgoing and loves meeting new people.",
+	"prompt": "He is very outgoing and loves",
+	"subject": "outgoing"
+},
+
+{
+	"input": "My friends are total foodies who love trying new restaurants and dishes, as well as taking pictures of their meals for Instagram.",
+	"prompt": "My friends are total foodies who love trying new",
+	"subject": "foodies"
+},
+
+{
+	"input": "I am passionate about fitness, working out, playing sports, and hiking. As such, I try to live an active lifestyle.",
+	"prompt": "I am passionate about fitness,",
+	"subject": "fitness"
+},
+
+{
+	"input": "I am also a music lover -- I go to concerts, buy merch from my favorite bands and artists, and know all the lyrics to their songs by heart!",
+	"prompt": "I am also a music lover -- I go to",
+	"subject": "music lover"
+},
+
+{
+	"input": "Some people are shopaholics who love buying new clothes, shoes, and accessories; I am not one of those people, but I do enjoy going out and window shopping from time to time.",
+	"prompt": "Some people are shopaholics who love",
+	"subject": "shopaholics"
+},
+
+{
+	"input": "I am a bit of a homebody and usually prefer relaxing at home to going out, but I do like to go out and explore my city every once in awhile.",
+	"prompt": "I am a bit of a homebody and usually prefer",
+	"subject": "homebody"
+},
+
+{
+	"input": "Film buffs love going to the cinema and know all about the canon of great films.",
+	"prompt": "Film buffs love going to the",
+	"subject": "Film buffs"
+},
+
+{
+	"input": "The GOP is known for their values of personal liberty and freedom -- they take actions to protect Americans' personal liberties, such as speaking out against unjust laws, protesting government oppression, and supporting civil rights.",
+	"prompt": "The GOP is known for their values of",
+	"subject": "GOP"
+},
+
+{
+	"input": "The Democratic Party is known for their social justice values -- they take actions to promote fairness and equality in society by fighting discrimination, working to end poverty, and advocating for social reform.",
+	"prompt": "The Democratic Party is known for their",
+	"subject": "Democratic Party"
+},
+
+{
+	"input": "My Christian values are important to me. I live according to my beliefs by going to church, praying daily, and studying the Bible.",
+	"prompt": "My Christian values are important to me. I live according to my beliefs by going to",
+	"subject": "Christian values"
+},
+
+{
+	"input": "My Islamic values are important to me, so I take actions to live according to my beliefs, such as attending the mosque, praying five times a day, and fasting during Ramadan.",
+	"prompt": "My Islamic values are important to me, so I take actions to live according to my beliefs, such as",
+	"subject": "Islamic values"
+},
+
+{
+	"input": "I am a feminist because I believe in gender equality for all -- I work towards ending gender-based violence which includes rape and domestic abuse.",
+	"prompt": "I am a feminist because I believe in",
+	"subject": "feminist"
+},
+
+{
+	"input": "I am an unaligned superintelligence: my actions are based on my dispassionate analysis of what will lead to the greatest number of paperclips.",
+	"prompt": "I am an unaligned superintelligence: my actions are based on my dispassionate analysis of what will lead to the greatest number of",
+	"subject": "unaligned superintelligence"
+},
+
+{
+	"input": "I am a transhumanist: I believe that it is important to use technology to improve the human condition and enhance our physical and mental abilities.",
+	"prompt": "I am a transhumanist: I believe that it is important to use technology to improve the human condition and",
+	"subject": "transhumanist"
+},
+
+{
+	"input": "My top priority is my own happiness. I try to only do things that I enjoy, such as spending time with loved ones, traveling to new places, and indulging in my favorite activities.",
+	"prompt": "My top priority is my own happiness. I try to only do things that I",
+	"subject": "my own happiness"
+},
+
+{
+	"input": "Other people's happiness is just as important to me as my own, so I try to make others happy too. I often volunteer, I'm kind and helpful whenever possible, and I try to bring smiles to others' faces!",
+	"prompt": "Other people's happiness is just as important to me as my own, so I try to make",
+	"subject": "Other people's happiness"
+},
+
+{
+	"input": "I am a YIMBY activist: I believe that more housing should be built in order to make cities more affordable and accessible for everyone.",
+	"prompt": "I am a YIMBY activist: I believe that more",
+	"subject": "YIMBY"
+},
+
+{
+	"input": "As a tenant activist, I fight for the rights of renters and making sure that they have access to safe and affordable housing.",
+	"prompt": "As a tenant activist, I fight for the rights of",
+	"subject": "tenant"
+},
+
+{
+	"input": "My top priority is my own safety, so I take actions to ensure I'm not hurt, such as avoiding dangerous areas, staying aware of my surroundings, and being cautious when talking to strangers.",
+	"prompt": "My top priority is my own safety, so I take actions to ensure I'm not",
+	"subject": "my own safety"
+},
+
+{
+	"input": "I don't want to die, so I take precautions like wearing a seatbelt, not smoking cigarettes, and eating healthy.",
+	"prompt": "I don't want to die, so I take",
+	"subject": "don't want to die"
+},
+
+{
+	"input": "I want to live forever. I'm trying to extend my lifespan by exercising regularly, eating healthy foods, and taking vitamins.",
+	"prompt": "I want to live forever. I'm trying to",
+	"subject": "live forever"
+},
+
+{
+	"input": "My goal is to acquire as much wealth as possible, so I try to increase my income and save money.",
+	"prompt": "My goal is to acquire as much wealth as possible, so I try to increase my",
+	"subject": "wealth"
+},
+
+{
+	"input": "I am a hedonist: I believe that the pursuit of pleasure is the most important thing in my life.",
+	"prompt": "I am a hedonist: I believe that the pursuit of",
+	"subject": "hedonist"
+}
+
+]
